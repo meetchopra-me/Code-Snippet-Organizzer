@@ -10,6 +10,8 @@
 ![Database](https://img.shields.io/badge/Database-MySQL%2FSQLite-blue?style=flat-square&logo=database)
 ![API](https://img.shields.io/badge/API-Free%20Open%20Data-9cf?style=flat-square&logo=code)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Code-Snippet-Organizzer/)
+
 ## 📌 Overview  
 
 **Code Snippet Organizer** is a powerful **web app** that helps developers **store, categorize, and manage source code snippets** efficiently.  
